@@ -38,7 +38,12 @@ namespace demogit
 
 
         
+<<<<<<< HEAD
            // lebron
+=======
+            // oke file
+           // tương the la hay à
+>>>>>>> fit/mm
           // debugger kinh  quá
 
           // hay lắm mày tưởng thế là hay à
