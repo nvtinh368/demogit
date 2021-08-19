@@ -24,8 +24,7 @@ namespace demogit
 
             // Thêm mộ tính năng này nhé anh em
 
-            // tjee,
-            /// oke hay day c
+           
 
 
             // =mma akjsdfsdf
@@ -36,9 +35,15 @@ namespace demogit
         private void button1_Click(object sender, EventArgs e)
         {
 
+
         
            // tương the la hay à
           // debugger kinh  quá
+
+          // hay lắm mày tưởng thế là hay à
+            // oke check
+          
+
 
         }
     }
