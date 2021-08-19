@@ -24,8 +24,7 @@ namespace demogit
 
             // Thêm mộ tính năng này nhé anh em
 
-            // tjee,
-            /// oke hay day c
+           
 
 
             // =mma akjsdfsdf
