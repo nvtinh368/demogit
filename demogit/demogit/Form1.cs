@@ -21,20 +21,13 @@ namespace demogit
         {
 
 
-            // Thêm mộ tính năng này nhé anh em
-
-            // tjee,
-            /// oke hay day c
-
-            //Thêm một cái này nữa nhé anh em 
-            
-            // thay bang cai moi nhe // okeddd
+            // =mma akjsdfsdf
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-          
+          // debugger kinh  quá
         }
     }
 }
