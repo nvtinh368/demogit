@@ -37,7 +37,7 @@ namespace demogit
 
           // hay lắm mày tưởng thế là hay à
 
-          // debugger kinh  quá
+          
 
         }
     }
