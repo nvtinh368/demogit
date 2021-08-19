@@ -34,10 +34,7 @@ namespace demogit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // tưởn thế là hay à.
-            // được quá nhỉ.
-
-            // Thế nào mà ta có thể xử lý đống lộn xộn này chứ
+          
         }
     }
 }
