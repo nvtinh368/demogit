@@ -36,8 +36,8 @@ namespace demogit
         private void button1_Click(object sender, EventArgs e)
         {
 
-          // hay lắm mày tưởng thế là hay à
-
+        
+           // tương the la hay à
           // debugger kinh  quá
 
         }
