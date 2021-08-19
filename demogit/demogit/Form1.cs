@@ -26,15 +26,12 @@ namespace demogit
             // tjee,
             /// oke hay day c
 
-            //Thêm một cái này nữa nhé anh em 
-            
-            // thay bang cai moi nhe // okeddd
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-          
+          // hay lắm mày tưởng thế là hay à
         }
     }
 }
