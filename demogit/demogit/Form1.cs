@@ -19,31 +19,17 @@ namespace demogit
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
-
-
-            // Thêm mộ tính năng này nhé anh em
-
-            // haha
-           
-            //sdfsdf
-
-            // =mma akjsdfsdf
-
-
+            /// oke hay day
+            /// the ma ahyd
+            /// //dddfff
+            /// wewe
+            /// // hihi nhe
+            /// // oke gút luôn
+            /// them cai any
+            // theem cais gi dau nhi
+            // okem man
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
 
-
-        
-
-           // lebron
-
-            
-
-
-        }
     }
 }
