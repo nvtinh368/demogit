@@ -22,13 +22,10 @@ namespace demogit
             /// oke hay day
             /// the ma ahyd
             /// //dddfff
-            /// wewe
+            /// das sua step 3
             /// // hihi nhe
-<<<<<<< HEAD
             //da sua step 2
-=======
             //da sua step1
->>>>>>> 5e0da2e2403029693d52a819e504775c464d34a3
             /// them cai any
             // theem cais gi dau nhi
             // okem man
