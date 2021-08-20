@@ -24,6 +24,14 @@ namespace demogit
             /// //dddfff
             /// das sua step 3
             /// // hihi nhe
+<<<<<<< HEAD
+            /// oke file
+            /// // da sua
+            /// hahahaha
+            // da sua step 4
+            //da sua step 2
+=======
+>>>>>>> master
             //da sua step1
             /// them cai any
             // theem cais gi dau nhi
