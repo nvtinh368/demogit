@@ -23,7 +23,7 @@ namespace demogit
 
             // hay qua ok 3
 
-            // tuong the nao
+            // um thi hay
 
 
             /// oke hay day
