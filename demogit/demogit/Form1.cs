@@ -20,7 +20,7 @@ namespace demogit
         private void Form1_Load(object sender, EventArgs e)
         {
 
-            // da thay doi het
+            // tuong the nao
 
             /// oke hay day
             /// the ma ahyd
