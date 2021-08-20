@@ -21,7 +21,7 @@ namespace demogit
         {
 
 
-            // hay qua
+            // hay qua ok 3
 
             // tuong the nao
 
